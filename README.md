@@ -2,7 +2,7 @@
 
 ## This is a fork to use the Cambridge KJV (Authorised King James Version) instead of the Oxford KJV.
 
-Read the Word of God from your terminal
+Read the Word of God from your terminal.
 
 ## Usage.
 
@@ -41,8 +41,8 @@ Read the Word of God from your terminal
         <Book>:<Chapter>/<Search>
             All verses in a chapter of a book that match a pattern
 
-## Build.
-akjv can be built by cloning the repository and then running make:
+## How to build.
+akjv can be built by cloning the repository then running make:
 
     git clone https://github.com/Bean6754/akjv.git
     cd akjv
@@ -51,7 +51,7 @@ akjv can be built by cloning the repository and then running make:
 ## License.
 Crown Copyright (UK) or Public domain (Everywhere else).
 
-## Note:
+## Notice.
 As I am from the United Kingdom the King James Version of the Bible is held under Crown Copyright so I may not distribute the KJV in the United Kingdom without permission from the Cambridge University Press. *BUT* as this is not a printed-copy and GitHub is most likely held on an international server I can *technically* do this.. I think..
 
 ```
@@ -68,5 +68,5 @@ Rights or permission requests (including but not limited to reproduction in comm
 Letters patent issued by King James with no expiration date means that to print this translation in the United Kingdom or import printed copies into the UK, you need permission. Currently, the Cambridge University Press, the Oxford University Press, and Collins have the exclusive right to print this Bible translation in the UK. This royal decree has no effect outside of the UK, where this work is firmly in the Public Domain. Please see http://www.cambridge.org/about-us/who-we-are/queens-printers-patent and https://en.wikipedia.org/wiki/King_James_Version#Copyright_status for more information
 ```
 
-## Original.
+## Original AUR link.
 # kjv [![AUR](https://img.shields.io/badge/AUR-kjv--git-blue.svg)](https://aur.archlinux.org/packages/kjv-git/)
