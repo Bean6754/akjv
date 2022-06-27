@@ -1,4 +1,4 @@
-Below is a list of changes I have amended to the bontibon's Oxford KJV to try and align it with the Cambridge KJV. Although this will be incomplete.
+### Below is a list of changes I have amended to the bontibon's Oxford KJV to try and align it with the Cambridge KJV. Although this will be incomplete.
 
 https://www.tapatalk.com/groups/bibleversiondiscussionboard/cambridge-and-oxford-kjv-editions-compared-t4330.html
 
@@ -34,6 +34,6 @@ https://www.tapatalk.com/groups/bibleversiondiscussionboard/cambridge-and-oxford
 | Revelation 2:6      | Nicolaitans   | Nicolaitanes |
 | Revelation 21:10    | chrysolite    | chrysolyte   |
 
-Table generated using: https://www.tablesgenerator.com/markdown_tables
+*Table generated using: https://www.tablesgenerator.com/markdown_tables*
 
 This is only a small sample list of the differences and in the future I hope to compare the AKJV and the KJV from Bible Gateway chapter-by-chapter by using a text-compare software.
