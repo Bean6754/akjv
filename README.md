@@ -1,5 +1,3 @@
-<a href="https://archive.org/details/new-world-order-bible-versions-full-movie" title="Why the King James Bible?"><img src="https://i.imgur.com/A9piMKc.png" width="250" align="right"></a>
-
 ## This is a fork to use the Cambridge KJV (Authorised King James Version) instead of the Oxford KJV.
 
 As I am from the United Kingdom the King James Version of the Bible is held under Crown Copyright so I may not distribute the KJV in the United Kingdom without permission from the Cambridge University Press. *BUT* as this is not a printed-copy and GitHub is most likely held on an international server I can *technically* do this.. I think..
@@ -19,6 +17,8 @@ Letters patent issued by King James with no expiration date means that to print 
 ```
 
 ## Original:
+<a href="https://archive.org/details/new-world-order-bible-versions-full-movie" title="Why the King James Bible?"><img src="https://i.imgur.com/A9piMKc.png" width="250" align="right"></a>
+
 # kjv [![AUR](https://img.shields.io/badge/AUR-kjv--git-blue.svg)](https://aur.archlinux.org/packages/kjv-git/)
 
 Read the Word of God from your terminal
