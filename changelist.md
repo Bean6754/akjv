@@ -19,12 +19,12 @@ https://www.tapatalk.com/groups/bibleversiondiscussionboard/cambridge-and-oxford
 | Ezra 4:10           | Asnappar      | Asnapper     |
 | Job 30:6            | clifts        | cliffs       |
 | Psalm 107:27        | wits' end     | wit's end    |
-| Psalm 148:8         | vapours       | vapour       |
+| Psalm 148:8         | vapour        | vapours      |
 | Proverbs 20:25      | inquiry       | enquiry      |
 | Proverbs 20:29      | gray          | grey         |
 | Ecclesiastes 8:17   | further       | farther      |
 | Jeremiah 34:16      | whom ye       | whom he      |
-| Amos 2:2            | Kirioth       | Kerioth      |
+| Amos 2:2            | Kerioth       | Kirioth      |
 | Naham 3:16          | flieth        | fleeth       |
 | Matthew 2:7         | inquired      | enquired     |
 | Matthew 4:1         | Spirit        | spirit       |
@@ -32,7 +32,8 @@ https://www.tapatalk.com/groups/bibleversiondiscussionboard/cambridge-and-oxford
 | Luke 6:20           | yours         | your's       |
 | 1 Corinthians 4:15  | instructors   | instructers  |
 | Revelation 2:6      | Nicolaitans   | Nicolaitanes |
-| Revelation 21:10    | chrysolite    | chrysolyte   |
+| Revelation 2:15     | Nicolaitans   | Nicolaitanes |
+| Revelation 21:20    | chrysolite    | chrysolyte   |
 
 *Table generated using: https://www.tablesgenerator.com/markdown_tables*
 
