@@ -1,5 +1,3 @@
-# TODO: The actual work. I still need to add the changes. .__.
-
 ## This is a fork to use the Cambridge KJV (Authorised King James Version) instead of the Oxford KJV.
 
 As I am from the United Kingdom the King James Version of the Bible is held under Crown Copyright so I may not distribute the KJV in the United Kingdom without permission from the Cambridge University Press. *BUT* as this is not a printed-copy and GitHub is most likely held on an international server I can *technically* do this.. I think..
