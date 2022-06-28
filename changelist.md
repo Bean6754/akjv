@@ -25,7 +25,7 @@ https://www.tapatalk.com/groups/bibleversiondiscussionboard/cambridge-and-oxford
 | Ecclesiastes 8:17   | further       | farther      |
 | Jeremiah 34:16      | whom ye       | whom he      |
 | Amos 2:2            | Kerioth       | Kirioth      |
-| Naham 3:16          | flieth        | fleeth       |
+| Nahum 3:16          | flieth        | fleeth       |
 | Matthew 2:7         | inquired      | enquired     |
 | Matthew 4:1         | Spirit        | spirit       |
 | Mark 1:19           | further       | farther      |
