@@ -3,6 +3,9 @@
 # akjv
 This is a fork of `bontibon/kjv` that uses the Cambridge KJV (Authorised King James Version) instead of the Oxford KJV.
 
+## Todo:
+Add Oxford and Cambridge KJV as I use the Oxford as my main KJV.
+
 Read the Word of God from your terminal.
 
 ## Usage.
