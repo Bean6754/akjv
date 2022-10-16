@@ -1,16 +1,14 @@
 <a href="https://archive.org/details/new-world-order-bible-versions-full-movie" title="Why the King James Bible?"><img src="https://i.imgur.com/A9piMKc.png" width="250" align="right"></a>
 
 # akjv
-This is a fork of `bontibon/kjv` that uses the Cambridge KJV (Authorised King James Version) instead of the Oxford KJV.
+This is a fork of `bontibon/kjv` that uses the Oxford KJV and the Cambridge AKJV.
 
-## Todo:
-Add Oxford and Cambridge KJV as I use the Oxford as my main KJV.
 
 Read the Word of God from your terminal.
 
 ## Usage.
 
-    usage: kjv [flags] [reference...]
+    usage: (a)kjv [flags] [reference...]
 
     Flags:
       -A num  show num verses of context after matching verses
@@ -46,11 +44,11 @@ Read the Word of God from your terminal.
             All verses in a chapter of a book that match a pattern
 
 ## How to build.
-akjv can be built by cloning the repository then running make:
+kjv can be built by cloning the repository then running make:
 
-    git clone https://github.com/Bean6754/akjv.git
-    cd akjv
-    make
+    git clone https://github.com/Bean6754/kjv.git
+    cd kjv
+    ./make.sh
 
 ## License.
 Crown Copyright (UK) or Public domain (Everywhere else).
