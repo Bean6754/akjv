@@ -1,7 +1,7 @@
 <a href="https://archive.org/details/new-world-order-bible-versions-full-movie" title="Why the King James Bible?"><img src="https://i.imgur.com/A9piMKc.png" width="250" align="right"></a>
 
 # akjv
-This is a fork of `bontibon/kjv` that uses the Oxford KJV and the Cambridge AKJV.
+This is a fork of `layeh/kjv` that uses the Oxford KJV and the Cambridge AKJV.
 
 
 Read the Word of God from your terminal.
