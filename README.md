@@ -76,5 +76,5 @@ Letters patent issued by King James with no expiration date means that to print 
 ## License
 
 Original: Public domain
-
+Luke Smith's: Public Domain
 Bean6754: BSD 3-Clause
